@@ -1,2 +1,2 @@
 # learnRegExp
-Learning Error handling in JavScript with Regular Expressions
+Learning error handling in JavaScript with Regular Expressions
